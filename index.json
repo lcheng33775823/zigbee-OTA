@@ -2361,16 +2361,6 @@
     "otaHeaderString": "DR1175r1v02--JN5169--ENCRYPTED00"
   },
   {
-    "fileName": "PMM300Z3_OTA_ENC_V5_ENC.ota",
-    "fileVersion": 5,
-    "fileSize": 220046,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Jennic/PMM300Z3_OTA_ENC_V5_ENC.ota",
-    "imageType": 4108,
-    "manufacturerCode": 4151,
-    "sha512": "5dbafbb232eccb6d2c3c219a759dfd1ea847a3645d23b26f2f791fccabe004e6ce0220ca7cc73faddb45be8f7ee90f6c67df07bbe0ac4b663f068ec2e0709953",
-    "otaHeaderString": "DR1175r1v02--JN5169--ENCRYPTED00"
-  },
-  {
     "fileName": "SBM300ZB_OTA_ENC_V4_ENC.ota",
     "fileVersion": 4,
     "fileSize": 178798,
@@ -3881,28 +3871,6 @@
     "sha512": "c92357df7603f9e33f7c818eabb42ba301886fed9a0f2c70df0d909932c024ea772929f62dce10a71deef723ecb69f67346f487260d9bcea76eb96b436569c9e",
     "otaHeaderString": "OM15082-CUBE-JN5180-ENCRYPTED000",
     "modelId": "lumi.remote.cagl02"
-  },
-  {
-    "fileName": "20220624200604_OTA_lumi.switch.b2nc01_0.0.0_0025_20220615_7973B8.ota",
-    "fileVersion": 25,
-    "fileSize": 288686,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Lumi/20220624200604_OTA_lumi.switch.b2nc01_0.0.0_0025_20220615_7973B8.ota",
-    "imageType": 6408,
-    "manufacturerCode": 4447,
-    "sha512": "af8c264c43ee112a3277400ee24b921e84c30c4675d8618bbee922e2d66ce29ba79bb133cc28f0608f3c9a3b1ce39a1bf0ca337fd00b27428346d5e134e45b5c",
-    "otaHeaderString": "ROUTERX-----JN5180--ENCRYPTED000",
-    "modelId": "lumi.switch.b2nc01"
-  },
-  {
-    "fileName": "20220624200938_OTA_lumi.switch.b1nc01_0.0.0_0024_20220615_7D3656.ota",
-    "fileVersion": 24,
-    "fileSize": 286878,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Lumi/20220624200938_OTA_lumi.switch.b1nc01_0.0.0_0024_20220615_7D3656.ota",
-    "imageType": 6280,
-    "manufacturerCode": 4447,
-    "sha512": "a3a0ba4b901f63b9063cc70e35c1886da85235db0ef6f7006bfbf35345ade6359adf4261ed86b6173e7e21c5dd9e4959fb09f26df5eb35529314cf3a5bf83db0",
-    "otaHeaderString": "ROUTERX-----JN5180--ENCRYPTED000",
-    "modelId": "lumi.switch.b1nc01"
   },
   {
     "fileName": "20220701175804_OTA_lumi.switch.b2lc04_0.0.0_0023_20220701_E4CE08.ota",
@@ -6301,16 +6269,6 @@
     "otaHeaderString": "vers: ZigBee:00001006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "trvzb_v1.2.1.ota",
-    "fileVersion": 4609,
-    "fileSize": 328138,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/trvzb_v1.2.1.ota",
-    "imageType": 8199,
-    "manufacturerCode": 4742,
-    "sha512": "fbc751c738cf8c15e088bc5f91f9a0d039d16d09d689ede3c131ac36f2cdf63bf15f3e10cbf775a1896c57e81aeae6425abb893cb5b36e99465c1c7738ec9f39",
-    "otaHeaderString": "vers:00001201,00001200\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "zbmicro_v1.0.5.ota",
     "fileVersion": 4101,
     "fileSize": 269220,
@@ -7377,17 +7335,6 @@
     "otaHeaderString": "Telink OTA Sample Usage\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "100B-0129-01000D02-Light-EFR32MG26.zigbee",
-    "fileVersion": 16780546,
-    "fileSize": 837940,
-    "originalUrl": "https://firmware.meethue.com/storage/100b-129/16780546/639d0ae6-07d8-40bf-9459-6c370410d180/100B-0129-01000D02-Light-EFR32MG26.zigbee",
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0129-01000D02-Light-EFR32MG26.zigbee",
-    "imageType": 297,
-    "manufacturerCode": 4107,
-    "sha512": "3eecbdb068aeff962a430cafbcad57c8792129577eafbf409e2fc0ffb3333d04a6f492202e4d0c8362964d0bcc1a0add6f2c4b4046cfd1383ddf9e4f733abc95",
-    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "VZM32-SN_0.02.ota",
     "fileVersion": 16973826,
     "fileSize": 246470,
@@ -7409,13 +7356,98 @@
     "otaHeaderString": "EBL Shyugj_Dimmer_mg22_ext_flash"
   },
   {
-    "fileName": "GarageDoorSensor_PROD_OTA_V34_v1.00.34.ota",
-    "fileVersion": 34,
-    "fileSize": 137746,
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/GarageDoorSensor_PROD_OTA_V34_v1.00.34.ota",
+    "fileName": "trvzb_v1.3.0.ota",
+    "fileVersion": 4864,
+    "fileSize": 329856,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/trvzb_v1.3.0.ota",
+    "imageType": 8199,
+    "manufacturerCode": 4742,
+    "sha512": "9bb3374caba58ac72d4ffb1f601a4b35ec7ffa74a45bb03ff9892919929399ea4484fafd681f27368646650929dd7a56c6bf230c4d39971658d21b89c382073e",
+    "otaHeaderString": "vers:00001300,00001204\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "20240731114104_OTA_lumi.switch.b1nc01_0.0.0_0029_20240729_69827E.ota",
+    "fileVersion": 29,
+    "fileSize": 289744,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Lumi/20240731114104_OTA_lumi.switch.b1nc01_0.0.0_0029_20240729_69827E.ota",
+    "imageType": 6280,
+    "manufacturerCode": 4447,
+    "sha512": "b5db413acf7818dfc878444b1f550e57e6890e426c68981b33886d3398771b079d44cd85f10790f45f8223d306bf02c7f75f50c5b46c3660d31186fa612abd54",
+    "otaHeaderString": "ROUTERX-----JN5180--ENCRYPTED000",
+    "modelId": "lumi.switch.b1nc01"
+  },
+  {
+    "fileName": "20240731114846_OTA_lumi.switch.b2nc01_0.0.0_0029_20240729_4EDD09.ota",
+    "fileVersion": 29,
+    "fileSize": 291552,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Lumi/20240731114846_OTA_lumi.switch.b2nc01_0.0.0_0029_20240729_4EDD09.ota",
+    "imageType": 6408,
+    "manufacturerCode": 4447,
+    "sha512": "9fce4e4bccca34831c2ab1cc989013068bc92a9d67264d17764fcea556ba1baa9cacdacbae6f59836a680f39b81df7cd574ba8a7604e0a4c9aebee07ad459b8c",
+    "otaHeaderString": "ROUTERX-----JN5180--ENCRYPTED000",
+    "modelId": "lumi.switch.b2nc01"
+  },
+  {
+    "fileName": "Radar_PROD_OTA_V6_v1.00.06.ota",
+    "fileVersion": 6,
+    "fileSize": 136354,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/Radar_PROD_OTA_V6_v1.00.06.ota",
+    "imageType": 54194,
+    "manufacturerCode": 5127,
+    "sha512": "ef965246281a1b3da9f908b8c0d45e597c459b7db1e4b98a0ac1b3f3fab67058216eaf8c31ef5b6d9fd413c0cbb0030b38062581a2daa21c3ef42d09afcf5af8",
+    "otaHeaderString": "Telink OTA Sample Usage\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "GarageDoorSensor_PROD_OTA_V36_v1.00.36.ota",
+    "fileVersion": 36,
+    "fileSize": 137698,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/ThirdReality/GarageDoorSensor_PROD_OTA_V36_v1.00.36.ota",
     "imageType": 54193,
     "manufacturerCode": 5127,
-    "sha512": "9b19db5305b3fb3f3d569690ac5d75aeb68f53841b45ab5e9226798b744d9d90bc12a6dfd3bdf6e8d30c26d3415bb208c79ed007458884c42df9487436b8c2e7",
+    "sha512": "b68cbc5385270c5196daaec55e5175d8203006ed16672ed3e860b3a630dc23965994123a27bb3a2248ae2f0d9871c81c8b38259f2d7aca28651758f936515535",
     "otaHeaderString": "Telink OTA Sample Usage\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "PMM300Z3_OTA_ENC_V8_ENC.ota",
+    "fileVersion": 8,
+    "fileSize": 224686,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Jennic/PMM300Z3_OTA_ENC_V8_ENC.ota",
+    "imageType": 4108,
+    "manufacturerCode": 4151,
+    "sha512": "8baf64a84928848a8e50889c9f147eec3af40fe98a08fdae0c81211137e97f41497d14fa9cb1760f166bc7d08febf757f2d6fa58aee91ecc9c0cc32402a8e469",
+    "otaHeaderString": "DR1175r1v02--JN5169--ENCRYPTED00",
+    "releaseNotes": "The acCurrentDivisor has been changed from 100 to 10 to allow acCurrent values to exceed 655.35A. Note, however, that the unit precision will change from two decimal places to one."
+  },
+  {
+    "fileName": "100B-0129-01000D06-Light-EFR32MG26.zigbee",
+    "fileVersion": 16780550,
+    "fileSize": 833604,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-129/16780550/d44f751c-9def-4483-aeb9-940f59ed3aa1/100B-0129-01000D06-Light-EFR32MG26.zigbee",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0129-01000D06-Light-EFR32MG26.zigbee",
+    "imageType": 297,
+    "manufacturerCode": 4107,
+    "sha512": "c21b60bca9276fb9c1cecfe4b61b91a4cc90ca9a48cd75c93fb2ed8fc33853e81b0f4e618afbc7ba6538b7a868669765698611c3db2430389aa5fae86c28c5d3",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "mmwave_module_fw_V3_14_3.ota",
+    "fileVersion": 100863491,
+    "fileSize": 50238,
+    "originalUrl": "https://inov.li/IRbxhx1646F/mmwave_module_fw_V3_14_3.ota",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/mmwave_module_fw_V3_14_3.ota",
+    "imageType": 260,
+    "manufacturerCode": 4655,
+    "sha512": "f89ead312763061ca44dd3cd917c223087877ce235a2ac41ef22b31c43b6566baab267a3d90a649812364a7b4c065757fa4117b64fbed74857bae3d2493cbf27",
+    "otaHeaderString": "LD6002B\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "snzb-02d_v2.3.0.ota",
+    "fileVersion": 8960,
+    "fileSize": 264118,
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/snzb-02d_v2.3.0.ota",
+    "imageType": 2053,
+    "manufacturerCode": 4742,
+    "sha512": "1ff8bc7d3d38adc87b4b2050fc6241efdd989c6410b6a73f6f8dde999450f9468bc08ca62f7223adc61a2d655a746c257002af4c2c36f3c089c182cc4a58aaea",
+    "otaHeaderString": "FWSN_SNZB02D\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
