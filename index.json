@@ -7234,17 +7234,6 @@
     "releaseNotes": "1.Support real-time power, current, and voltage report.\r\n2.Support total power consumption statistics feature to track energy usage.\r\n3.Support power-on on/off configuration, allowing users to set initial operating state when power-on."
   },
   {
-    "fileName": "VZM30-SN_1.00.ota",
-    "fileVersion": 17826048,
-    "fileSize": 224618,
-    "originalUrl": "https://files.inovelli.com/firmware/VZM30-SN/Production/1.00/VZM30-SN_1.00.ota",
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM30-SN_1.00.ota",
-    "imageType": 272,
-    "manufacturerCode": 4655,
-    "sha512": "5fb948e5d840b4d60699f7affb713ed030e150d3f6a133c5675d12c0191c6bcdd4ce0eeeaa70a13df6aa2181d3251afd071471d554ea875d60d0c69664204f9d",
-    "otaHeaderString": "VZM30-SN_OnOff\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "10F2-7B2C-0000-0001-01600461-ld6.ota.zigbee",
     "fileVersion": 23069793,
     "fileSize": 239870,
@@ -7473,5 +7462,16 @@
     "manufacturerCode": 4655,
     "sha512": "639ae6284c4fd740573a6079c6164c0c73938a7efdb0d78059ea64342f4029a4470377c5577825fac52390b3d046ea3d1c1355da925ac6dfdaf20ff24b88dac2",
     "otaHeaderString": "vzm32-sn_mmWave\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "VZM30-SN_1.01.ota",
+    "fileVersion": 17826049,
+    "fileSize": 224638,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM30-SN/Production/1.01/VZM30-SN_1.01.ota",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM30-SN_1.01.ota",
+    "imageType": 272,
+    "manufacturerCode": 4655,
+    "sha512": "2ce48acc9fc1fa9b08db57e4eff3a4082029a262490a428dac333bed3a1e98d08f11abddcd60d5f9caa074bb7cfe48efc964d89c133e67d2fe3261baecca4a27",
+    "otaHeaderString": "VZM30-SN_OnOff\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
