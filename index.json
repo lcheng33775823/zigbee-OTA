@@ -7675,5 +7675,16 @@
     "manufacturerName": [
       "LiXee"
     ]
+  },
+  {
+    "fileName": "100B-0117-01001D0E-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
+    "fileVersion": 16784654,
+    "fileSize": 421738,
+    "originalUrl": "https://firmware.meethue.com/storage/100b-117/16784654/0e638cfe-8013-47f1-80c5-9766e7c8e46a/100B-0117-01001D0E-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-0117-01001D0E-ConfLightBLE-ModuLum-EFR32MG21.zigbee",
+    "imageType": 279,
+    "manufacturerCode": 4107,
+    "sha512": "1b201b43dcbba828e3ea125f73ed1c7ddd579b413910f01ff3c6a69e3fa0a98b6bf8be705789690a30587b24267ba5d3776ccde301becff4b3bc3b8e0538fdbd",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
